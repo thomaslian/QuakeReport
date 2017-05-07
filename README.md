@@ -1,5 +1,6 @@
 Quake Report App
 ===================================
+Finished part 1 of the Udacity course.
 
 This app displays a list of recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
